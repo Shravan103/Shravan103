@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6;">
-  <li>🎓 <b>Pursuing Bachelor's in <span style="color:#00C2FF;">Computer Engineering</span></b></li>
+  <li>🎓 <b>Bachelor's in <span style="color:#00C2FF;">Computer Engineering</span></b></li>
   <li>📍 Based in <b><span style="color:#FF5733;">Margao, Goa, India</span></b></li>
   <li>🤖 Passionate about <b><span style="color:#FFD700;">Machine Learning</span></b>, <b><span style="color:#FFD700;">Computer Vision</span></b>, and building impactful projects</li>
   <li>🤝 Open to <b><span style="color:#4CAF50;">collaborations</span></b> and <b><span style="color:#4CAF50;">learning opportunities</span></b></li>
