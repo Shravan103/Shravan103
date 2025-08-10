@@ -36,7 +36,6 @@
   <code><img height="50" alt="PyTorch" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
   <code><img height="50" alt="Keras" src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png"></code>
   <code><img height="50" alt="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-  <code><img height="50" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 </p>
 
 
@@ -69,7 +68,7 @@
 
 ## 🌐 Find Me Here
 <p align="center">
-  <a href="https://www.linkedin.com/in/shravan-adarkar-b07594231">
+  <a href="https://www.linkedin.com/in/shravan-adarker-b07594231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/shr__one._103">
