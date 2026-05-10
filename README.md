@@ -43,11 +43,11 @@
 
 <p align="center">
   <a href="https://github.com/Shravan103">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shravan103&show_icons=true&theme=react&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shravan103&show_icons=true&theme=react&hide_border=true" />
   </a>
 
   <a href="https://github.com/Shravan103">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan103&layout=compact&theme=react&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shravan103&layout=compact&theme=react&hide_border=true" />
   </a>
 </p>
 
@@ -57,11 +57,11 @@
 
 <p align="center">
   <a href="https://github.com/Shravan103/Brain-Tumor-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shravan103&repo=Brain-Tumor-Detection&theme=react" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravan103&repo=Brain-Tumor-Detection&theme=react" />
   </a>
 
   <a href="https://github.com/Shravan103/Stock-Price-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shravan103&repo=Stock-Price-Prediction&theme=react" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravan103&repo=Stock-Price-Prediction&theme=react" />
   </a>
 </p>
 
